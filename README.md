@@ -8,15 +8,10 @@ A lightweight Python port scanner for basic network reconnaissance for my projec
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
 ```bash
 git clone https://github.com/miraclegalaxys/SP1.git
 cd SP1
-```
-
-2. Install dependencies (if needed):
-```bash
-pip install -r requirements.txt
 ```
 
 ## Usage
