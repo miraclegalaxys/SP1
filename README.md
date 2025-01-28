@@ -50,7 +50,7 @@ Only use this tool on networks you own or have explicit permission to test.
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
 
 ## Author
 
